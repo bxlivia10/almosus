@@ -1,0 +1,60 @@
+.topo {
+    background: white;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.12);
+}
+.topo-conteudo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.topo h1 {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #333;
+    margin: 0;
+}
+.info-usuario {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.botoes-header {
+    display: flex;
+    gap: 10px;
+}
+.perfil-btn, .sair-btn {
+    padding: 8px 15px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    text-decoration: none;
+    font-weight: 600;
+}
+.perfil-btn {
+    background: #2ECC71;
+    color: white !important;
+}
+.perfil-btn:hover {
+    background: #27AE60;
+}
+.sair-btn {
+    background: #E74C3C;
+    color: white !important;
+}
+.sair-btn:hover {
+    background: #C0392B;
+}
+.btn-inicio {
+    width: auto;
+    padding: 8px 15px;
+    font-size: 0.9rem;
+    border-radius: 8px;
+    background: #3498DB;
+    color: white;
+}
+.btn-inicio:hover {
+    background: #2980B9;
+}

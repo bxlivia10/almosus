@@ -1,0 +1,27 @@
+    color: white;
+    padding: 15px 0;
+}
+.topo-conteudo {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    margin: 0;
+    font-weight: 500;
+}
+.topo-conteudo .sair-btn {
+    color: white;
+    padding: 8px 15px;
+    font-size: 0.9rem;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+.topo-conteudo .sair-btn:hover {
+    background-color: #c0392b;
+}
+    margin: 30px 0;
+}
+.lista-kits {
+    margin-top: 20px;
+}

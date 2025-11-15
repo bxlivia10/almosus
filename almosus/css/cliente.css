@@ -1,0 +1,66 @@
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.topo h1 {
+    font-size: 1.2rem;
+    font-weight: 700;
+.botoes-header {
+    display: flex;
+    gap: 10px;
+    margin-top: 0;
+    order: 2;
+}
+
+.perfil-btn,
+.carrinho-btn {
+.container {
+    padding: 25px;
+}
+
+.titulo-secao {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+    width: 300px;
+    transition: transform 0.3s ease;
+    overflow: hidden;
+}
+
+.kit-card:hover {
+}
+
+.kit-info h3 {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.kit-info p {
+    margin: 0 0 10px 0;
+    color: #555;
+    font-size: 0.95rem;
+}
+
+.kit-preco {
+    color: white;
+    border: none;
+    padding: 12px 15px;
+    border-radius: 0 0 16px 16px;
+    cursor: pointer;
+    transition: 0.2s;
+    width: 100%;
+    margin-top: auto;
+}
+
+.btn-add:hover {
+    background: #27AE60;
+}
+
+.kit-info {
+    padding: 15px 20px 0 20px;
+    width: 100%;
+}
